@@ -1,2 +1,2 @@
 # CalculadoraPrefijo
-Calculadora prefijo Scheme, Computer Science 1, Universidad Galileo
+Calculadora prefijo Scheme, Ciencias de la Computación I, Universidad Galileo
